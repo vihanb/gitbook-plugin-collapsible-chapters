@@ -1,15 +1,15 @@
 {
-  "name": "gitbook-plugin-expandable-chapters",
-  "description": "Expandable chapters for convenient navigation within a gitbook",
+  "name": "gitbook-plugin-collapsible-chapters",
+  "description": "Collapsable chapters for convenient navigation within a gitbook",
   "main": "index.js",
   "version": "0.1.7",
   "engines": {
     "gitbook": ">=0.4.6"
   },
-  "homepage": "https://github.com/DomainDrivenArchitecture/gitbook-plugin-expandable-chapters",
+  "homepage": "https://github.com/vihanb/gitbook-plugin-collapsible-chapters",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DomainDrivenArchitecture/gitbook-plugin-expandable-chapters"
+    "url": "https://github.com/vihanb/gitbook-plugin-collapsible-chapters"
   },
   "license": "Apache 2"
 }
