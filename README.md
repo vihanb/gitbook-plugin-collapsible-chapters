@@ -13,7 +13,7 @@ Add it to your `book.json` configuration:
 
 ```
 {
-    plugins: ["expandable-chapters"]
+    plugins: ["collapsible-chapters"]
 }
 ```
 
@@ -30,7 +30,7 @@ There is no configuration needed at the moment, can be left empty.
 ```
 {
 	"pluginsConfig": {
-		"expandable-chapters":{}
+		"collapsible-chapters":{}
 	}
 }
 ```
