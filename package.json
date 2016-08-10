@@ -2,7 +2,7 @@
   "name": "gitbook-plugin-collapsible-chapters",
   "description": "Collapsable chapters for convenient navigation within a gitbook",
   "main": "index.js",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "engines": {
     "gitbook": ">=0.4.6"
   },
