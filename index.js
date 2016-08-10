@@ -3,10 +3,10 @@ module.exports = {
     website: {
         assets: "./book",
         js: [
-            "expandable-chapters.js"
+            "collapsable-chapters.js"
         ],
         css: [
-            "expandable-chapters.css"
+            "collapsable-chapters.css"
         ]
     }
 };
