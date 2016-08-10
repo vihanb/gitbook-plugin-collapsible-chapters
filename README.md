@@ -1,5 +1,9 @@
-#Expandable chapters for GitBook
+#Collapsable chapters for GitBook
 ==============
+
+This is a fork of `gitbook-plugin-expandable-chapters`. This provides smaller, less in-the-face icons
+
+---
 
 This plugin adds an icon to each chapter, that has a child and css states for the child list to collapse/expand ones.
 
