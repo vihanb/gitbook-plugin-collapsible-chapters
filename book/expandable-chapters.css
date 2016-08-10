@@ -19,10 +19,10 @@
 }
 
 .book .book-summary .exc-trigger:before {
-  	content: "\f054";
+  	content: "\f0da";
 }
 
 .book .book-summary .expanded > a .exc-trigger:before,
 .book .book-summary .expanded > span .exc-trigger:before {
-	content: "\f078";
+	content: "\f0d7";
 }
